@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+  
+  .logo {
+    width: 150px;
+  }
+  
+  .cartlogo {
+    width: 20px;
+    margin-right: 2px;
+  }
+  
+  .nav_items {
+    padding: 0 80px;
+  }
+  
+  .nav_items > ul {
+    font-size: 24px;
+    font-weight: 500;
+    display: flex;
+    list-style-type: none;
+  }
+  
+  .nav_items > ul > li {
+    padding: 10px;
+    margin: 10px;
+  }

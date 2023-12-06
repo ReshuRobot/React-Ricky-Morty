@@ -1,0 +1,37 @@
+.filter_container{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    /* height: auto; */
+    padding:10px;
+    .filter_header{
+        width:100%;
+        font-weight: bold;
+        font-size: 20px;
+        display: flex;
+        justify-content:center;
+        height:10%;
+    }
+    .filter_body{
+width:100%;
+height:80%;
+    }
+ .filter_clear {
+  height: 10%;
+  padding: 10px;
+  background-color: #C5E898; /* Set the background color to a cool color of your choice */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #fff; /* Set text color to white or another contrasting color */
+  font-size: 16px;
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+}
+
+.filter_clear:hover {
+  background-color: #9FBB73; /* Change background color on hover */
+}
+
+}

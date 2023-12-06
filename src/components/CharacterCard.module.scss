@@ -1,0 +1,72 @@
+.res_card {
+    // margin: 20px;
+    height:200px;
+    width: 500px;
+    display: flex;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    /* margin: 15px; */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    background-color: #fff;
+    cursor: pointer;
+  
+  
+  }
+  .res_card:hover{
+    /* transition: all 0.05s ease 0s; */
+    /* box-shadow: 10px 0 10px 0 rgba(61, 59, 59, 0.2); */
+    cursor:pointer;
+    transform: scale(0.95, 0.95);
+    transform-origin: center center;
+    transition: all 0.1s ease-in 0s;
+}
+  
+  .res_image {
+    width: 150px;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px 0 0 10px;
+  }
+  
+  .res_logo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .res_info {
+    padding: 15px;
+    flex-grow: 1;
+  }
+  
+  .res_name {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  .res_cuisine {
+    font-size: 1.1em;
+    color: #666;
+    margin-bottom: 6px;
+  }
+  
+  .res_footer_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .res_ratings,
+  .res_deliverytime {
+    font-size: 0.9em;
+    color: #888;
+  }
+  
+  .res_deliverytime {
+    margin-top: 8px;
+  }
+  
