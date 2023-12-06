@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReshuRobot/React-Ricky-Morty/static/css/main.c3f072b4.css",
+    "main.js": "/ReshuRobot/React-Ricky-Morty/static/js/main.ff6946ad.js",
+    "static/js/635.b236c2e4.chunk.js": "/ReshuRobot/React-Ricky-Morty/static/js/635.b236c2e4.chunk.js",
+    "index.html": "/ReshuRobot/React-Ricky-Morty/index.html",
+    "main.c3f072b4.css.map": "/ReshuRobot/React-Ricky-Morty/static/css/main.c3f072b4.css.map",
+    "main.ff6946ad.js.map": "/ReshuRobot/React-Ricky-Morty/static/js/main.ff6946ad.js.map",
+    "635.b236c2e4.chunk.js.map": "/ReshuRobot/React-Ricky-Morty/static/js/635.b236c2e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3f072b4.css",
+    "static/js/main.ff6946ad.js"
+  ]
+}

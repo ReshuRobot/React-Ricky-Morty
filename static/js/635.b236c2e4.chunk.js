@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfood_app=self.webpackChunkfood_app||[]).push([[635],{635:(e,s,d)=>{d.r(s),d.d(s,{default:()=>o});var a=d(184);const o=()=>(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)("div",{className:"episode-container",children:"Episode"}),(0,a.jsx)("div",{children:" Welcome to the Episode Page "})]})}}]);
+//# sourceMappingURL=635.b236c2e4.chunk.js.map
